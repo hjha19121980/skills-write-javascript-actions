@@ -19,6 +19,9 @@ _Write your own GitHub JavaScript Action and automate customized tasks unique to
   Review what we learned, ask for feedback, provide next steps.
 -->
 
+## status badge
+![example branch parameter.](https://github.com/hjha19121980/skills-write-javascript-actions/actions/workflows/my-workflow.yml/badge.svg?branch=main)
+
 ## Finish
 
 <img src=https://octodex.github.com/images/poptocat_v2.png alt=celebrate width=300 align=right>
